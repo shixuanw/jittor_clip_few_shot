@@ -47,7 +47,7 @@ python -m jittor.test.test_cudnn_op
 
 # 所用方法
 
-本项目所采用的方法主要参考了 [**AMU-Tuning: Effective Logit Bias for CLIP-based Few-shot Learning**](https://arxiv.org/pdf/2404.08958.pdf)这篇论文中的思想，
+项目的idea来自于 [**AMU-Tuning: Effective Logit Bias for CLIP-based Few-shot Learning**](https://arxiv.org/pdf/2404.08958.pdf)这篇论文。
 
 
 
