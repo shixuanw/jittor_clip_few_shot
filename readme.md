@@ -57,6 +57,7 @@ python -m jittor.test.test_cudnn_op
   <img src="./static_image/image1.jpg"/>
 </div>
 
+
 通过利用适当的辅助特征来预测逻辑偏差，这些辅助特征被输入到具有多分支训练的高效特征初始化线性分类器中。最后，基于不确定性的融合，将逻辑偏差纳入 CLIP 进行少样本分类。
 
 
@@ -93,7 +94,3 @@ print(f"模型的总参数量: {total_params/(1024*1024)}M")
 热身赛链接：https://www.gitlink.org.cn/shixuanw/jittor_Conditional-GAN
 
 赛题1链接：https://www.gitlink.org.cn/shixuanw/jittor_clip_few_shot
-
-
-
-qq联系方式：490599231
