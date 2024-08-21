@@ -35,6 +35,8 @@ python -m jittor.test.test_example
 python -m jittor.test.test_cudnn_op
 ```
 
+另外请将数据集上传到本项目的根目录中，命名为“Dataset”，文件夹中包含“Train”，“Val”，“Test”，里面存放着每个类别的图片，同一类别的图片用类别名文件夹存放。
+
 ### colab
 
 另外，您也可以通过colab直接一站式运行，具体步骤：
@@ -90,4 +92,8 @@ print(f"模型的总参数量: {total_params/(1024*1024)}M")
 
 热身赛链接：https://www.gitlink.org.cn/shixuanw/jittor_Conditional-GAN
 
-赛题1链接：
+赛题1链接：https://www.gitlink.org.cn/shixuanw/jittor_clip_few_shot
+
+
+
+qq联系方式：490599231
