@@ -101,14 +101,3 @@ print(f"模型的总参数量: {total_params/(1024*1024)}M")
 ```
 模型的总参数量: 167.79069232940674M
 ```
-<<<<<<< HEAD
-=======
-
-
-
-# 开源链接
-
-热身赛链接：https://www.gitlink.org.cn/shixuanw/jittor_Conditional-GAN
-
-赛题1链接：https://www.gitlink.org.cn/shixuanw/jittor_clip_few_shot
->>>>>>> 7d171af37ebd33bf1bfc5ab29808f8f46855790a
